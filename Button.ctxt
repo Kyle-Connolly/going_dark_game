@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Button\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=button
+comment1.target=void\ mouseDetect(Button)
+comment1.text=\r\n\ Act\ -\ if\ the\ mouse\ is\ over\ the\ button,\ set\ the\ mouseOn\ to\ true,\ if\ it's\ is\ true\ half\ the\ transparency\ of\ its\ image,\ else\ set\ it\ back\ to\ full\ transparency\r\n\ "this"\ keyword\ is\ used\ so\ that\ the\ instance\ of\ the\ button\ is\ used\r\n\ \r\n\ File\ fileName\ \=\ new\ File("phonebook.txt");\r\n
+comment2.params=world
+comment2.target=void\ setMenu(greenfoot.World)
+comment3.params=diffID
+comment3.target=void\ setDiff(int)
+comment3.text=\r\n\ This\ method\ sets\ the\ difficulty\ by\ taking\ the\ difficulty\ selected\ from\ the\ relavant\ \r\n\ subclasses.\ A\ temporary\ file\ is\ then\ created\ and\ the\ difficulty\ (int)\ is\ written\ to\ it\ \r\n\ The\ orginal\ text\ file\ is\ then\ deleted\ and\ the\ temporary\ file\ is\ renamed\ to\ the\ orginal\ file\r\n
+comment4.params=
+comment4.target=int\ getDiff()
+comment5.params=button\ adjVal
+comment5.target=void\ changeTrans(Button,\ int)
+numComments=6
